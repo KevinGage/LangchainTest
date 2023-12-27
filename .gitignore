@@ -123,6 +123,7 @@ celerybeat.pid
 .env
 .venv
 winvenv
+winvenv311
 env/
 venv/
 ENV/
